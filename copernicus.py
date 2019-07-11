@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # coding: utf8
 from argparse import ArgumentParser
-from google import search #from https://github.com/MarioVilas
+from google import search 
 from google import get_random_user_agent
 from bs4 import BeautifulSoup
 from unidecode import unidecode
